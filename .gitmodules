@@ -1,0 +1,18 @@
+[submodule "uczlaw3/www/cege0043-jsReference"]
+	path = uczlaw3/www/cege0043-jsReference
+	url = https://github.com/Anke18/cege0043-jsReference.git
+[submodule "uczlaw3/www/cege0043-cssReference"]
+	path = uczlaw3/www/cege0043-cssReference
+	url = https://github.com/Anke18/cege0043-cssReference.git
+[submodule "uczlaw3/www/cege0043-imagesReference"]
+	path = uczlaw3/www/cege0043-imagesReference
+	url = https://github.com/Anke18/cege0043-imagesReference.git
+[submodule "uczlaw3/www/images"]
+	path = uczlaw3/www/images
+	url = https://github.com/Anke18/cege0043-imagesReference.git
+[submodule "uczlaw3/www/css"]
+	path = uczlaw3/www/css
+	url = https://github.com/Anke18/cege0043-cssReference.git
+[submodule "uczlaw3/www/js"]
+	path = uczlaw3/www/js
+	url = https://github.com/Anke18/cege0043-jsReference.git
